@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Vitalik lubit chai s confetami");
+
+            Console.ReadKey();
         }
     }
 }
